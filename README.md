@@ -15,9 +15,9 @@
 ## :sassy_man:  About me
 - :school: I am a Junior Web Developer .
 
-- 🖥️  See my portfolio at [PORTFOLIO](https://my-portfolio-ten-lemon.vercel.app/) .
+- 🖥️  See my portfolio at [Portfolio](https://my-portfolio-ten-lemon.vercel.app/) .
 
-- ✉️  You can contact me at [MAIL](mailto:zayyanabdelouahed@gmail.com) .
+- ✉️  You can contact me at [mail](mailto:zayyanabdelouahed@gmail.com) .
 
 
 ## 🔧 Technologies & Tools
