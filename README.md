@@ -17,7 +17,7 @@
 
 - 🖥️  See my portfolio at [PORTFOLIO](https://my-portfolio-ten-lemon.vercel.app/) .
 
-- ✉️  You can contact me at [MAIL](zayyanabdelouahed@gmail.com) .
+- ✉️  You can contact me at [MAIL](mailto:zayyanabdelouahed@gmail.com) .
 
 
 ## 🔧 Technologies & Tools
